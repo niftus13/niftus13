@@ -23,7 +23,7 @@
 
 ## Tech Stack
 
-현재 프로젝트에서 사용하는 기술입니다.
+현재 멀티테넌트 프로젝트에서 집중적으로 사용하는 기술입니다.
 
 | 영역 | 기술 |
 | :--- | :--- |
@@ -32,6 +32,44 @@
 | **Frontend** | ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=111827) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) |
 | **Environment & CI** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) · pnpm |
 | **Testing** | ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) · Playwright · ESLint · Prettier |
+
+### Additional Experience
+
+이전 프로젝트와 학습 저장소에서 사용한 기술입니다.
+
+| 영역 | 기술 |
+| :--- | :--- |
+| **Java Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) · Spring MVC · Spring Security |
+| **Persistence** | Spring Data JPA · QueryDSL · MyBatis · TypeORM |
+| **PHP Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white) |
+| **Python Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) · WebSocket |
+| **React** | ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white) · React Router · Redux Toolkit |
+| **UI & State** | ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) · Pinia · Astro · JavaScript · HTML · CSS |
+| **Cache & Queue** | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) · ioredis · BullMQ |
+| **Build & Server** | ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white) · Gradle · Vite · npm |
+
+### Applied Skills
+
+| 주제 | 프로젝트에서 다룬 내용 |
+| :--- | :--- |
+| **인증·인가** | 세션 인증, Spring Security, JWT, OAuth 2.0 연동, 역할별 접근 제어 |
+| **데이터 접근** | SQL·MyBatis 매핑, JPA·QueryDSL 조회, TypeORM 기반 엔티티 구성 |
+| **비동기 처리** | Redis 연결 관리, BullMQ 큐·워커 구성, WebSocket 메시지 전달 |
+| **화면 구성** | React·Vue 컴포넌트, Redux Toolkit·Pinia 상태 관리, Tailwind CSS 스타일링 |
+| **실행 환경** | Docker Compose 서비스 구성, Nginx 설정, 정적 사이트 빌드 |
+
+<details>
+<summary><strong>공개 코드로 살펴보는 기술 경험</strong></summary>
+
+| 저장소 | 확인할 수 있는 기술 |
+| :--- | :--- |
+| [TodoSecurity](https://github.com/niftus13/TodoSecurity) | Spring Boot · Spring Security · JPA · JWT · OAuth 2.0 |
+| [dd1](https://github.com/niftus13/dd1) | Spring Data JPA · QueryDSL 기반 검색 |
+| [r02](https://github.com/niftus13/r02) | React · Redux Toolkit · React Router |
+| [classProject](https://github.com/niftus13/classProject) | Java · Spring MVC · MyBatis 학습 |
+| [nuxtStudy](https://github.com/niftus13/nuxtStudy) | Nuxt · Vue 학습 |
+
+</details>
 
 ## Featured Project
 
